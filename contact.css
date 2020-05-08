@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://btcmanager.com/wp-content/uploads/2019/05/Nifty-Football-Launches-Ethereum-based-Trading-Card-Marketplace-1120x669.jpg);
+    background-size: 100%;      
+}
+
+.header {
+    background-color: #e09e0d;
+    padding: 20px;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: -10px;
+    margin-right: -10px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+ 
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ 
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
